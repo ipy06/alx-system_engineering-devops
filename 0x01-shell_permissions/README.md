@@ -58,3 +58,7 @@ Task 11 - Create a script that adds execute permission to all subdirectories of 
 Regular files should not be changed.
 
 
+
+
+
+Task 12 - Create a script that creates a directory called my_dir with permissions 751 in the working directory.
